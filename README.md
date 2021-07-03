@@ -38,9 +38,9 @@ LINK: coming soon
 
 Dr. Mohammed Zubair PhD (University of Dundee, U.K.)
 
-Founder (COGNAISYS - AI Solutions & Services)
+Founder (COGNAISYS-Solutions & Services)
 
-Email : cognisys@outlook.com
+Email : cognaisys@outlook.com
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mzmshamim/)
 
